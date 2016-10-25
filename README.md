@@ -1,4 +1,4 @@
-# build
+# 请切换到pgy分支 查看
 iOS自动打包及上传蒲公英
 
 github找了很久自动打包的脚本（shell，python），最后我测试成功的只有2个（1：https://github.com/735344577/build，2：https://github.com/hytzxd/iOS-AutoBuild）。
